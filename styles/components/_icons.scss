@@ -1,0 +1,149 @@
+.icons {
+  position: relative;
+  font-style: normal;
+  line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  &--phone {
+    @extend .icons;
+
+    width: rem(14);
+    height: rem(14);
+
+    &:before {
+      background-image: url('~/public/images/svg/phone-icon.svg');
+    }
+  }
+
+  &--facebook {
+    @extend .icons;
+
+    width: rem(23);
+    height: rem(23);
+
+    @include media-breakpoint-up(xl) {
+      width: 1.25rem;
+      height: 1.25rem;
+    }
+
+    &:before {
+      background-image: url('~/public/images/svg/facebook-icon.svg');
+    }
+  }
+
+  &--instagram {
+    @extend .icons;
+
+    width: rem(23);
+    height: rem(23);
+
+    @include media-breakpoint-up(xl) {
+      width: 1.25rem;
+      height: 1.25rem;
+    }
+
+    &:before {
+      background-image: url('~/public/images/svg/instagram-icon.svg');
+    }
+  }
+
+  &--chevron-up {
+    @extend .icons;
+
+    width: 8px;
+    height: 8px;
+    transform: rotate(-180deg);
+
+    &:before {
+      background-image: url('~/public/images/svg/chevron-up-black.svg');
+    }
+  }
+
+  &--chevron-up-navy {
+    @extend .icons;
+
+    width: 8px;
+    height: 8px;
+    transform: rotate(-180deg);
+
+    &:before {
+      background-image: url('~/public/images/svg/chevron-up.svg');
+    }
+  }
+
+  &--chevron-right-circle {
+    @extend .icons;
+
+    width: rem(19);
+    height: rem(19);
+
+    &:before {
+      background-image: url('~/public/images/svg/chevron-right-circle.svg');
+    }
+
+    &-transparent {
+      @extend .icons;
+
+      width: rem(34);
+      height: rem(34);
+
+      &:before {
+        background-image: url('~/public/images/svg/chevron-right-circle-transparent.svg');
+      }
+
+      @include media-breakpoint-up(md) {
+        width: rem(48);
+        height: rem(48);
+      }
+
+      @include media-breakpoint-up(xl) {
+        width: rem(60);
+        height: rem(60);
+      }
+    }
+
+    &-yellow {
+      @extend .icons;
+
+      width: rem(47);
+      height: rem(47);
+
+      @include media-breakpoint-up(md) {
+        width: rem(40);
+        height: rem(40);
+      }
+
+      &:before {
+        background-image: url('~/public/images/svg/chevron-right-circle-yellow.svg');
+      }
+    }
+  }
+
+  &--flag {
+    @extend .icons;
+
+    width: rem(19);
+    height: rem(19);
+
+    &-turkey {
+      @extend .icons--flag;
+
+      &:before {
+        background-image: url('~/public/images/svg/flags-tr.svg');
+      }
+    }
+  }
+}

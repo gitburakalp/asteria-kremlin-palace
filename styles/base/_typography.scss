@@ -1,0 +1,96 @@
+@include font-face('Kontras', '~/public/fonts/Kontras/Kontras', 400, normal, otf);
+
+%title {
+  font-family: $ff-headings;
+  font-weight: 400;
+  color: $colors--black;
+
+  + * {
+    margin-top: rem(7);
+  }
+}
+
+.title {
+  @extend %title;
+
+  font-size: rem(35);
+  line-height: 1;
+
+  @include media-breakpoint-up(xl) {
+    font-size: rem(69);
+    line-height: 1;
+  }
+
+  &--sm {
+    @extend %title;
+    font-size: rem(35);
+    line-height: 1;
+
+    @include media-breakpoint-up(xl) {
+      font-size: rem(48);
+      line-height: 1;
+    }
+  }
+
+  &--xs {
+    @extend %title;
+    font-size: rem(28);
+    line-height: 1;
+
+    @include media-breakpoint-up(md) {
+      font-size: rem(28);
+    }
+
+    @include media-breakpoint-up(xl) {
+      font-size: rem(40);
+      line-height: 1;
+    }
+  }
+}
+
+%subtitle {
+  font-family: $ff-serif;
+  font-weight: 400;
+  color: #c48976;
+}
+
+.subtitle {
+  @extend %subtitle;
+  font-size: rem(26);
+
+  @include media-breakpoint-up(md) {
+    font-size: rem(20);
+  }
+
+  @include media-breakpoint-up(xl) {
+    font-size: rem(34);
+  }
+
+  &.subtitle--sm {
+    @include media-breakpoint-up(xl) {
+      font-size: rem(30);
+    }
+  }
+
+  &.subtitle--xs {
+    @include media-breakpoint-up(xl) {
+      font-size: rem(25);
+    }
+  }
+}
+
+.description {
+  font-family: $ff-sans-serif;
+  font-weight: 300;
+  font-size: rem(16);
+  line-height: 1.7;
+  color: $colors--black;
+
+  @include media-breakpoint-down(md) {
+    margin-bottom: rem(20);
+  }
+
+  @include media-breakpoint-between(md, xl) {
+    font-size: rem(14);
+  }
+}

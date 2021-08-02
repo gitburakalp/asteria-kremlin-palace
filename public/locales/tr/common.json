@@ -1,0 +1,516 @@
+{
+  "book_now": "Rezervason Yap",
+  "menu": [
+    {
+      "title": "Konaklama",
+      "href": "/accommodation"
+    },
+    {
+      "title": "Restoranlar",
+      "href": "/restaurants"
+    },
+    {
+      "title": "Aktiviteler",
+      "href": "/activities"
+    },
+    {
+      "title": "spa & wellness",
+      "href": "/spa-wellness"
+    },
+    {
+      "title": "kongre",
+      "href": "/conference"
+    },
+    {
+      "title": "spor",
+      "href": "/sport"
+    }
+  ],
+  "seo": {
+    "homepage": "Homepage",
+    "Accommodation": "Accommodation",
+    "restaurants": "Restaurants",
+    "activities": "Activities",
+    "spa-wellness": "Spa & Wellness",
+    "conference": "Konferans",
+    "sport": "Sport",
+    "homepageHref": "/home",
+    "AccommodationHref": "/accommodation",
+    "restaurantsHref": "/restaurants"
+  },
+  "header": {
+    "our_hotels": "Otellerimiz",
+    "homepage": "Homepage",
+    "Accommodation": "Accommodation",
+    "restaurants": "Restaurants",
+    "activities": "Activities",
+    "spa-wellness": "Spa & Wellness",
+    "conference": "Konferans",
+    "sport": "Sport"
+  },
+  "footer": {
+    "copyright": "© 2021 All Rights Reserved."
+  },
+  "home": {
+    "section_2": {
+      "title": "ASTERIA KREMLIN PALACE",
+      "subtitle": "Asteria Kremlin Palace sizi zamanda yolculuk yapmaya davet ediyor…",
+      "description": "Kremlin Sarayı’nı görmek için binlerce kilometre yolculuk yapmadan, Rus Çarlarının ikametgahı olan bu yapıyı keşfedebilmeniz için Asteria Kremlin Palace Antalya, Kundu’da aslına uygun olarak inşa edildi. Kundu; hem Antalya şehir merkezine yakınlığı ile hem de altın kumsallarının güzelliği ve rahatlatıcı atmosferi ile turistleri cezbetmektedir."
+    },
+    "section_3": {
+      "title": "KONAKLAMA",
+      "subtitle": "Asteria Kremlin Palace",
+      "description": "Asteria Kremlin Palace’ta odalarımız, otelin konumunun ve muhteşem mimarisinin avantajının yanı sıra kaliteli hizmet anlayışıyla size ve sevdiklerinize konforlu ve donanımlı yaşam alanları vadediyor.",
+      "buttonTitle": "KONAKLAMA",
+      "buttonDescription": "Detaylar için tıklayınız.",
+      "buttonHref": "/accommodation"
+    },
+    "section_4": {
+      "menu_description": "Asteria Kremlin Palace<br />A tariff that includes individual or group prices applied to  agencies, and poster-specific prices.",
+      "menu": [
+        {
+          "title": "factsheet",
+          "menuContent": [
+            {
+              "imageSource": "../public/images/stock-images/factsheets.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 KIŞ"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-1.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-2.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-3.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 ЗИМА"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-4.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2021 YAZ"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-5.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2021 SUMMER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-6.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2021 SOMMER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-7.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2021 ЛЕТНИЙ СЕЗОН"
+            }
+          ],
+          "menuContent_2": {
+            "title": "Keep In Touch",
+            "subtitle": "Follow us for news & Campaigns",
+            "description": "Today, many brands are actively using social networks, and they can<br />communicate directly with their target audience and potential customers through social networks.",
+            "cards": [
+              {
+                "imageSource": "../public/images/stock-images/follow-us-1.jpg",
+                "title": "Facebook",
+                "description": "Join our community what we have to offer you!",
+                "href": "/"
+              },
+              {
+                "imageSource": "../public/images/stock-images/follow-us-2.jpg",
+                "title": "Instagram",
+                "description": "Follow what we have to offer you!",
+                "href": "/"
+              }
+            ]
+          }
+        },
+        {
+          "title": "awards",
+          "awards_data": [
+            {
+              "imageSource": "../public/images/awards/awards-hotels.com-2021-2.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Hotels.com",
+              "buttonTitle": "2021 Award"
+            },
+            {
+              "imageSource": "../public/images/awards/awards-hotels.com-2021.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Hotels.com",
+              "buttonTitle": "2021 Award"
+            },
+            {
+              "imageSource": "../public/images/awards/awards-booking.com-2021.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Booking.com",
+              "buttonTitle": "2021 Award"
+            },
+            {
+              "imageSource": "../public/images/awards/awards-hotels.com-2020.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Hotels.com",
+              "buttonTitle": "2020 Award"
+            }
+          ]
+        },
+        {
+          "title": "multimedia",
+          "multimedia_data": [
+            {
+              "imageSource": "../public/images/stock-images/follow-us-1.jpg",
+              "title": "Video Gallery",
+              "description": "Check our videos.",
+              "href": "/"
+            },
+            {
+              "imageSource": "../public/images/stock-images/follow-us-2.jpg",
+              "title": "Photo Gallery",
+              "description": "Check our photos.",
+              "href": "/"
+            }
+          ]
+        },
+        {
+          "title": "contact",
+          "contact_data": [
+            {
+              "description": "<strong>Asteria Kremlin Palace</strong><br />Kundu Mahallesi, Yaşar Sobutay<br />Boulevard No:440/1 Aksu/Antalya<br/><br/><a href='tel:+902424312400'>T: +90 242 431 24 00</a>F: +90 850 582 18 83<a href='mailto:kremlinpalace@asteriahotels.com' >E: <strong>kremlinpalace@asteriahotels.com</strong></a>"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "accommodation": {
+    "title": "KONAKLAMA",
+    "subtitle": "",
+    "description": "Asteria Kremlin Palace’ta odalarımız, otelin konumunun ve muhteşem mimarisinin avantajının yanı sıra kaliteli hizmet anlayışıyla size ve sevdiklerinize konforlu ve donanımlı yaşam alanları vadediyor.",
+    "gallery_title": "Fotoğraf Galerisi",
+    "main_image": "../public/images/accommodation/accommodation-main-image.jpeg",
+    "other_rooms": "Diğer Odalarımız",
+    "rooms": [
+      {
+        "buttonHref": "/accommodation/dublex-family-room",
+        "primary_title": "Dublex Family Room",
+        "title": "Dublex Aile Odası",
+        "description": "Tüm dublex family odalar 48 m² olup ilk katında balkon, 1 adet çift kişilik yatak ve banyo bulundurmaktadır. Katlar içeriden merdiven ile birbirine bağlanmaktadır. İkinci katta ise iki adet tek kişilik yatak ve banyo bulunmaktadır. En fazla 4 yetişkin ve en fazla 12 yaşında olmak üzere bir çocuk konaklama yapabilir.",
+        "gallery_title": "",
+        "cardDescription": "Detaylar için tıklayın.",
+        "cardImageSource": "../public/images/accommodation/dublex-family-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/dublex-family-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/dublex-family-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/dublex-family-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/standart-room-with-bunkbed",
+        "primary_title": "Standart Room With Bunkbed",
+        "title": "RANZALI STANDART ODA",
+        "description": "Odalar 23 m² olmakla beraber balkona sahiptir. En fazla 2 yetişkin ve ve en fazla 12 yaşında olmak üzere 2 çocuk konaklama yapabilir.",
+        "gallery_title": "",
+        "cardDescription": "Detaylar için tıklayın.",
+        "cardImageSource": "../public/images/accommodation/standart-room-with-bunkbed.jpeg",
+        "imageList": [{ "imageSource": "../public/images/accommodation/gallery/standart-room-with-bunkbed-1.jpeg" }]
+      },
+      {
+        "buttonHref": "/accommodation/standart-rooms",
+        "primary_title": "Standart Rooms",
+        "title": "STANDART ODA",
+        "description": "23 m² alana sahip olan bu odalar balkonludur. Standart odalarımızda en fazla 3 yetişkin olmak üzere konaklama yapılabilir.",
+        "gallery_title": "",
+        "cardDescription": "Detaylar için tıklayın.",
+        "cardImageSource": "../public/images/accommodation/standart-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/standart-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/standart-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/standart-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/royal-deluxe",
+        "primary_title": "Royal Deluxe",
+        "title": "Royal Deluxe",
+        "description": "Odalar 80 m² büyüklüğünde olup çift kişilik yatak, balkon, oturma odası ve mutfağa sahiptir. En fazla 4 yetişkin olarak konaklama yapılabilir.",
+        "gallery_title": "",
+        "cardDescription": "Detaylar için tıklayın.",
+        "cardImageSource": "../public/images/accommodation/royal-deluxe.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/royal-deluxe-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-deluxe-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-deluxe-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/royal-king-suite",
+        "primary_title": "Royal King Suite",
+        "title": "Royal King Suite",
+        "description": "Odalar 80 m² genişliğinde olup çift kişilik yatak, balkon, oturma odası, mutfak ve office bulundurmaktadır. En fazla 4 yetişkin olarak konaklama yapılabilir.",
+        "gallery_title": "",
+        "cardDescription": "Detaylar için tıklayın.",
+        "cardImageSource": "../public/images/accommodation/royal-king-suite.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-3.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-4.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-5.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-6.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-7.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/superior-dublex-family-room",
+        "primary_title": "Superior Dublex Family Room",
+        "title": "SUPERIOR DUBLEKS AİLE ODASI",
+        "description": "Odalar 48 m² genişliğinde olup ilk katında balkon, çift kişilik yatak ve banyo bulundurmaktadır. Katlar içeriden merdiven ile birbirine bağlanmaktadır. İkinci katta ise iki adet tek kişilik yatak ve banyo bulunmaktadır. En fazla 4 yetişkin ve en fazla 12 yaşında olmak üzere bir çocuk konaklama yapabilir.",
+        "gallery_title": "",
+        "cardDescription": "Detaylar için tıklayın.",
+        "cardImageSource": "../public/images/accommodation/superior-dublex-family-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/superior-dublex-family-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-dublex-family-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-dublex-family-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/superior-standart-room",
+        "primary_title": "Superior Standart Room",
+        "title": "Superior Standart Oda",
+        "description": "Odalar 23 m² genişliğinde olup en fazla 3 yetişkin olmak üzere konaklama yapılabilmektedir. Bu oda kategorisi tamamen yenilenmiştir.",
+        "gallery_title": "",
+        "cardDescription": "Detaylar için tıklayın.",
+        "cardImageSource": "../public/images/accommodation/superior-standart-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/superior-standart-swim-up-room",
+        "primary_title": "Superior Standart Swim Up Room",
+        "title": "Superior Swim Up Standart Oda",
+        "description": "Odalar 23 m² olup balkon bulundurmakta, ayrıca en fazla 3 yetişkine kadar konaklama yapılabilmektedir. Bu oda kategorisi tamamen yenilenmiş olup swim up havuzlara erişimi bulunmaktadır.",
+        "gallery_title": "",
+        "cardDescription": "Detaylar için tıklayın.",
+        "cardImageSource": "../public/images/accommodation/superior-standart-swim-up-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-swim-up-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-swim-up-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-swim-up-room-3.jpeg" }
+        ]
+      }
+    ]
+  },
+  "restaurants": {
+    "title": "RESTORANLAR",
+    "subtitle": "",
+    "description": "Asteria Hotels, tüm konuklarını birer gurme ayrıcalığıyla ağırlar. Alanında uzman şeflerin, eşsiz lezzetleri ağız tadınızı sanata dönüştürür. Bilgi, deneyim; özenle seçilmiş lezzetler, farklı anlayışlar ve modern sunumlar masanıza ruh katar. Dünya mutfağından özenle seçilmiş örnekler ve farklı konseptlerde “a la carte” restoranlar farklı damak tatlarını ve aynı mekanlarda bir araya getirir.<br>Sıcak ya da soğuk, alkollü ya da alkolsüz içecekler, en gözde çay ve kahve çeşitleri ve çok özel kokteyller Asteria dünyasına renk katar.",
+    "main_image": "../public/images/restaurants/restaurants-main-image.jpeg",
+    "all_restaurants_title": "Restoranlarımız",
+    "all_restaurants": [
+      "ARBAT BAR",
+      "DiVO BAR",
+      "EL SOMBRERO RESTORAN",
+      "PASHA A LA CARTE",
+      "RISTORANTE LA GONDOLA",
+      "SENAT DiSCO BAR",
+      "MARINE RESTORAN",
+      "STOLITSA RESTORAN",
+      "ZVEZDA BAR",
+      "AVRORA BEACH BAR",
+      "PUSHKIN CAFE BAR",
+      "BİRA EVİ"
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-1.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-2.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-3.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-4.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-5.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-6.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-7.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-8.jpeg" }
+    ]
+  },
+  "activities": {
+    "title": "AKTİVİTELER",
+    "description": "Asteria Kremlin Palace gün boyu süren spor ve eğlence aktiviteleriyle misafirlerine sınırsız bir eğlence sunuyor. Eğlenceli animasyon şovlarıyla renklenen akşamlar, açık hava diskosuyla geç saatlere kadar devam ediyor. Asteria Kremlin Palace’te masa tenisi, langırt, dart, havuz oyunları, sportif bir tatil geçirmek isteyenleri cezbediyor. Minik misafirler özenle düzenlenmiş Asteria Çocuk Kulübü’nde yaşıtlarıyla birlikte eğlenceli ve eğitici aktivitelerle keyifli saatler geçirebiliyor.",
+    "main_image": "../public/images/activities/activities-main-image.jpeg",
+    "items": [
+      {
+        "title": "AKTİVİTELER",
+        "description": "Kaydıraklı su parkı, masa tenisi, plaj voleybolu, basketbol, tenis, su topu, havuz oyunları, mini futbol, dart, boccia vb. bir çok aktivite ile zinde ve eğlence dolu bir tatil sizi bekliyor."
+      },
+      {
+        "title": "GECE HAYATI",
+        "description": "Canlı performanslar, özel gösteriler, gala geceleri, temalı partiler, dj performans, Senat Disco, piyano dinletisi vb. bir çok gece eğlencesi ile geceler çok renkli."
+      },
+      { "title": "GÜNLÜK ANİMASYONLAR", "description": "Aerobik, su jimnastiği, sabah jimnastiği, yoga vb. günlük animasyonlarımıza katılabilir tatilin tadını doyasıya çıkarabilirsiniz." }
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/activities/gallery/activities-1.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-2.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-3.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-4.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-5.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-6.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-7.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-8.jpeg" }
+    ]
+  },
+  "spa-wellness": {
+    "title": "SPA & WELLNESS",
+    "description": "Profesyonel bir ekiple ruhunuzu ve bedeninizi dinlendirin...<br />Asteria Kremlin Palace Spa Merkezi'nde, her şey sizin mutluluğunuz için! Alanında deneyimli uzmanlar, kaliteli ürünler, etkili bakım programları ve daha fazlası Spa Merkezi’nde sizin hizmetinizde... Dinlendirici bir atmosferde size özel programlarla yılın tüm yorgunluğunu atacak ve kendinizi yeniden doğmuş gibi hissedeceksiniz! ",
+    "main_image": "../public/images/spa-wellness/spa-wellness-main-image.jpeg",
+    "items": [
+      {
+        "title": "Spa",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu augue non nulla facilisis volutpat vitae non nisl.<br /> Proin luctus tortor ut luctus condimentum. Cras viverra lorem mollis nisl varius, non vehicula justo vehicula. "
+      },
+      {
+        "title": "Masaj",
+        "description": "Proin ornare bibendum sem, vel posuere libero pellentesque eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi nec lacus ac nulla eleifend aliquet in nec nulla. Suspendisse dapibus, lacus et vehicula sagittis, dolor quam semper ligula, sed luctus odio mauris in dolor."
+      },
+      {
+        "title": "Rahatlama Havuzu",
+        "description": "Cras nec pharetra felis. In finibus neque id sem aliquet scelerisque. Donec eu tempus nunc, eget euismod erat. Duis tincidunt tempus nunc, sit amet porttitor arcu fringilla ac. Duis nec consectetur arcu. Integer laoreet mauris eget leo condimentum, quis commodo leo rutrum. "
+      }
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-1.jpeg" },
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-2.jpeg" },
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-3.jpeg" },
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-4.jpeg" }
+    ]
+  },
+  "conference": {
+    "title": "KONGRE",
+    "description": "Asteria Kremlin Palace büyük etkinliklerine, toplantılara ve kongrelere de ev sahipliği yapıyor. Otelimizin deneyimli ekibi, şık ve konforlu toplantı salonları ve kongre merkezleri, misafirlerimizin tüm toplantı ihtiyaçlarını karşılıyor. 2520 m2 büyüklüğünde, tavandan seperatörlerle 3 parçaya bölünebilen büyük bir salon, raylı sistem sayesinde seperatörler hareket ettirilerek istenen genişlikte bölümler oluşturulabilmektedir. Salon, tek parça kullanıldığında; tiyatro düzeninde 3000 kişi kapasitelidir. Aynı salon bölünerek 800, 1200 ve 1000 kişi kapasiteli farklı ölçülerde de kullanılabilmektedir. Ana salon, gala yemeği düzeninde 2000 kişi alabilmektedir. Bu salon dışında 7 adet farklı kapasitelere ayrılabilen workshop salonu bulunmaktadır. Salonların her birinde ayrı kumanda edilebilen ışık ve klima sistemi ile eksiksiz bir hizmet sunulmaktadır.",
+    "main_image": "../public/images/conference/conference-main-image.jpeg",
+    "imageList": [
+      { "imageSource": "../public/images/conference/gallery/conference-1.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-2.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-3.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-4.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-5.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-6.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-7.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-8.jpeg" }
+    ]
+  },
+  "sport": {
+    "title": "SPOR",
+    "subtitle": "Lorem ipsum dolor",
+    "description": "Nulla ac dictum justo, non finibus sem. Phasellus imperdiet ornare est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque condimentum metus tincidunt tincidunt euismod. Nulla consequat ut tellus id luctus. Sed et orci finibus, malesuada nulla non, malesuada ipsum. Maecenas et placerat lectus. Ut pulvinar libero a sapien commodo consectetur. Mauris iaculis risus nulla, eget rutrum sapien porttitor ut. Nam accumsan tempor nunc.",
+    "main_image": "../public/images/sport/sport-main-image.jpeg",
+    "items": [
+      {
+        "title": "Futbol",
+        "description": "Asteria Kremlin Palace Football Center bünyesinde 6 adet doğal çim futbol sahası ile 1 adet sentetik futbol sahası bulunmaktadır. Ayrıca 600 kişilik kapalı tribün, gece maçları için profesyonel aydınlatma, skorbord, 6 adet takım soyunma odası, 2 adet hakem soyunma odası, basın odası, VIP lounge bulunmaktadır. Taraftarlar ve takımlar için ayrı otobüs ve araç park alanı mevcuttur."
+      },
+      {
+        "title": "Plaj Voleybolu",
+        "description": "Asteria Kremlin Palace içersinde FIVB standartlarında  16X8 metre ölücülerinde toplamda 16 adet saha bulunmaktadır.        "
+      },
+      {
+        "title": "Tenis",
+        "description": "Uluslararası standartlarda tamamı ışıklandırmalı 8 adet toprak tenis kortu bulunmaktadır."
+      }
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/sport/gallery/sport-1.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-2.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-3.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-4.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-5.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-6.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-7.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-8.jpeg" }
+    ]
+  },
+  "kids_club": {
+    "title": "ASTERIA ÇOCUK KULÜBÜ",
+    "description": "Asteria Hotels Kremlin Palace’ta kendini özel hissetmek minik konuklarımızın da hakkı! Otelimizde bulunan ve 04- 12 yaş grubu misafirlerimize hizmet veren Asteria Çocuk Kulübü’nde çocuklarınız yaratıcılıklarını geliştirirken; eğitimli ve tecrübeli animatörler eşliğinde doyasıya eğlenebilecek. Her gün 10:00 – 22:00 saatleri arasında çocuklar gönüllerince eğlenirken siz de onlarla beraber, en az onlar kadar eğlenebilir ya da çocukları Çocuk Kulübü’ne güvenle bırakıp, tatilin keyfine varabilirsiniz.    ",
+    "main_image": "../public/images/kids-club/kids-club-main-image.jpeg",
+    "items_title": "Çocuk kulübü hizmetlerimiz:",
+    "kids_club_list": [
+      "Haftanın her günü değişen temalı günler",
+      "Özel oyunlar",
+      "Havuz oyunları",
+      "Boyama",
+      "Özel hazırlanmış çocuk büfesi",
+      "Mama sandalyesi",
+      "Özel çocuk bakımı (ücretli ve ön rezervasyonlu)",
+      "Bebek arabası (ücretli ve ön rezervasyonlu)",
+      "Not: Çalışma saatleri dışında da çocuk bakımı hizmetimiz mevcuttur."
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-1.png" },
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-2.jpeg" },
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-3.png" },
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-4.jpeg" }
+    ]
+  },
+  "marriage_and_honeymoon": {
+    "title": "DÜĞÜN & BALAYI",
+    "description": "Asteria Hotels Kremlin Palace, hayatınızın en özel günlerini hayallerinizdeki gibi yaşayabilmeniz için her detayı özenle düşünüyor. Hizmet standartlarıyla her zaman mutlulukla hatırlayacağınız bir düğün balayı için tek yapmanız gereken bir Asteria oteline gelmek ve kendinizi özel hissettirecek günlerin tadını çıkarmak…",
+    "main_image": "../public/images/stock-images/mariage-and-honeymoon-main-image.jpeg",
+    "items": [
+      {
+        "title": "BALAYI",
+        "description": "Asteria Hotels Kremlin Palace’ta balayı çiftlerimiz için minik sürprizler ve detaylar özel olarak planlanıyor. Tatiliniz boyunca ihtiyaç duyabileceğiniz hemen hemen her ayrıntı mevcut.",
+        "subtitle": "Asteria Hotels bu özel tatili hayallerinizdeki gibi yaşayabilmeniz için özel bir paket oluşturdu. Bu pakete dahil hizmetlerimiz:",
+        "packages": [
+          "Bornoz",
+          "Terlik",
+          "Kettle",
+          "Çay Kahve Seti",
+          "VIP Buklet Malzemesi",
+          "Şarap",
+          "Meyve",
+          "Kuru meyve ikramları",
+          "Arzuya göre bir kez odaya kahvaltı (Rezervasyon giriş gününde organize edilmelidir.)",
+          "Bir akşam ücretsiz A’ la Carte restoranda ağırlanma şansı ile kendinizi özel hissettirecek günlerin tadını çıkarabilirsiniz. (Rezervasyon giriş gününde organize edilmelidir.)",
+          "<strong>Not:</strong> Balayı paketinden yararlanmak isteyen çiftlerin, evlilik tarihinden itibaren 6 ay içinde yapacakları konaklamalar için check-in sırasında evlilik cüzdanlarını göstermeleri gerekmektedir.",
+          "Balayı paketindeki bazı ayrıntıları ( Yer / Saat / Tarih ) misafirlerin kendileri konaklama esnasında bildirmelidirler. Balayı konseptinde bazı hizmetler istek dahilinde ve talep durumunda müsaitlik durumuna göre organize edilir."
+        ]
+      },
+      {
+        "title": "DÜĞÜN",
+        "description": "En özel gününüzde binlerce kişi önünde bir kez daha EVET diyin. Özel süslemeli araba ile otel turu, ses ve masa düzeni, tercihiniz olan müzik eşliğinde dans, nikah memuru ve animasyon ekibinin gösterileri eşliğinde, unutulmaz bir nikah töreni size bekliyor.",
+        "subtitle": "Düğün paketine dahil hizmetlerimiz:",
+        "packages": [
+          "Dondurmalı Meyve Çeşitleri",
+          "Özel Pasta",
+          "Soğuk Şampanya",
+          "İskelede Özel Süslenmiş Nikah Masası",
+          "Gelinin eline çiçek (kazablanka)",
+          "Tercih Ettiğiniz Şarkı ile Dans",
+          "Rusça Konuşan Nikah Memuru",
+          "Nikah Şahitleri 2 Kişi",
+          "Biri Otel Müdürü – İki Otel Yöneticisi",
+          "Sınırsız Consept içecekleri",
+          "*Ücretli Hizmet – İskelede Nikah Töreni (Bu aktivite, sahilde güneşlenen kalabalık önünde, akşam saatlerine doğru iskelede yapılır.)"
+        ]
+      }
+    ]
+  }
+}

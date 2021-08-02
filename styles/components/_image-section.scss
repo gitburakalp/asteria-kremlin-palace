@@ -1,0 +1,36 @@
+main {
+  display: flex;
+  flex-direction: column;
+
+  %image-section {
+    .figure {
+      padding-top: 400 / 375 * 100%;
+
+      @include media-breakpoint-up(md) {
+        padding-top: 400 / 768 * 100%;
+      }
+
+      @include media-breakpoint-up(xl) {
+        padding-top: 500 / 1440 * 100%;
+      }
+    }
+  }
+
+  > * {
+    &:first-child.image-section {
+      @extend %image-section;
+    }
+  }
+
+  > * {
+    &:nth-child(2) {
+      &.image-section {
+        position: relative;
+        order: -1;
+        padding-top: 0 !important;
+
+        @extend %image-section;
+      }
+    }
+  }
+}

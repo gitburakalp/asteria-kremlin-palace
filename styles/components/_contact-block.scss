@@ -1,0 +1,29 @@
+.contact-block {
+  position: relative;
+  padding: rem(17);
+  background-color: #def6ff;
+  border-radius: rem(2);
+
+  @include media-breakpoint-up(md) {
+    border-radius: rem(8);
+  }
+
+  p {
+    font-family: $ff-sans-serif;
+    font-weight: 300;
+    font-size: rem(17);
+
+    @include media-breakpoint-between(md, xl) {
+      font-size: rem(14);
+    }
+
+    strong {
+      font-weight: 700;
+    }
+  }
+
+  a {
+    display: block;
+    color: inherit;
+  }
+}

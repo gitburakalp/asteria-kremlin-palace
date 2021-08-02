@@ -1,0 +1,313 @@
+footer {
+  position: relative;
+  font-family: $ff-sans-serif;
+  font-size: rem(14);
+  font-weight: 300;
+  background-color: #def6ff;
+  padding-top: rem(26);
+  padding-bottom: rem(26);
+  margin-top: rem(75);
+
+  @include media-breakpoint-up(xl) {
+    padding-left: rem(15);
+    padding-right: rem(15);
+  }
+
+  > [class*='container'] {
+    max-width: rem(1440 - (135 + 135 - 30));
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .mb-active {
+    @include media-breakpoint-down(sm) {
+      padding-left: rem(29);
+      padding-right: rem(29);
+    }
+
+    @include media-breakpoint-down(xl) {
+      padding-bottom: rem(26);
+    }
+
+    .mt-phone {
+      @include media-breakpoint-down(sm) {
+        margin-top: rem(28);
+      }
+    }
+  }
+
+  [class*='container']:not([class*='swiper']) {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+
+    @include media-breakpoint-between(md, xl) {
+      padding-left: rem(30);
+      padding-right: rem(30);
+    }
+
+    .hotels-list-block {
+      @include media-breakpoint-down(xl) {
+        padding-right: 0;
+      }
+
+      ~ * {
+        @include media-breakpoint-up(xl) {
+          padding-left: rem(325 - 135);
+        }
+      }
+
+      ~ * + * {
+        @include media-breakpoint-down(sm) {
+          max-width: calc(100% - #{rem(30)});
+          margin-left: auto;
+          margin-right: auto;
+        }
+      }
+
+      @include media-breakpoint-between(md, xl) {
+        max-width: 82%;
+        > * {
+          margin-right: rem(-28);
+        }
+      }
+
+      @include media-breakpoint-up(xl) {
+        margin-top: 0 !important;
+      }
+    }
+
+    > .row {
+      > * {
+        + * {
+          margin-top: rem(26);
+        }
+      }
+    }
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #f8f8f8;
+    z-index: 1;
+
+    @include media-breakpoint-down(sm) {
+      height: vw(150, 375);
+    }
+
+    @include media-breakpoint-between(md, xl) {
+      height: vw(218, 768);
+    }
+
+    @include media-breakpoint-up(xl) {
+      height: rem(182);
+      background-color: #ffffff;
+    }
+  }
+
+  > * {
+    position: relative;
+    z-index: 2;
+  }
+
+  .footer-logo {
+    width: vw(81, 375);
+
+    @include media-breakpoint-up(md) {
+      width: vw(100, 768);
+    }
+
+    @include media-breakpoint-up(xl) {
+      width: rem(100);
+    }
+
+    @include media-breakpoint-between(md, xl) {
+      margin-top: 2rem;
+    }
+
+    img {
+      @extend .img-fluid;
+
+      max-width: unset;
+      width: 100%;
+    }
+  }
+
+  .hotels-block {
+    padding-bottom: rem(20);
+
+    @include media-breakpoint-up(xl) {
+      max-width: rem(1000);
+      margin-left: auto;
+    }
+
+    &-title {
+      font-size: rem(14);
+      font-weight: 500;
+      color: #074a81;
+      text-transform: uppercase;
+      text-align: right;
+      margin-bottom: rem(10);
+    }
+
+    .figure {
+      padding-top: 219 / 180 * 100%;
+
+      img {
+        border-radius: rem(8);
+      }
+
+      .icons {
+        $amount: rem(40);
+        position: absolute;
+        right: rem(20);
+        bottom: 0;
+        transform: translateY(50%);
+
+        width: $amount;
+        height: $amount;
+      }
+    }
+  }
+
+  .footer-menu {
+    @include media-breakpoint-up(md) {
+      display: flex;
+      flex-wrap: wrap;
+
+      + * {
+        margin-top: rem(13);
+      }
+
+      > * {
+        width: 0 0 auto;
+        max-width: 100%;
+
+        + * {
+          margin-left: rem(26);
+        }
+      }
+    }
+
+    @include media-breakpoint-up(xl) {
+      &:not(.sub) {
+        > * {
+          flex: 0 0 calc(100% / 5.875);
+          width: auto;
+          min-width: fit-content;
+          max-width: 100%;
+          margin-left: 0;
+        }
+      }
+    }
+
+    &-block {
+      display: flex;
+      flex-wrap: wrap;
+
+      @include media-breakpoint-down(sm) {
+        padding-left: rem(15);
+        padding-right: rem(15);
+
+        > * {
+          &:first-child {
+            flex: 0 0 63%;
+            max-width: 63%;
+          }
+
+          &:last-child {
+            flex: 0 0 37%;
+            max-width: 37%;
+          }
+        }
+      }
+
+      @include media-breakpoint-up(xl) {
+        padding-bottom: rem(26);
+        border-bottom: 1px solid rgba(#02020d, 0.2);
+
+        > * {
+          width: 100%;
+        }
+      }
+    }
+
+    &.sub {
+      @include media-breakpoint-down(xl) {
+        padding-top: rem(26);
+        border-top: 1px solid rgba(#02020d, 0.2);
+      }
+
+      @include media-breakpoint-down(sm) {
+        display: flex;
+        flex-wrap: wrap;
+
+        > * {
+          flex: 0 0 37%;
+          max-width: 37%;
+
+          &:nth-child(2n + 1) {
+            flex: 0 0 63%;
+            max-width: 63%;
+          }
+
+          &:nth-child(2) {
+            margin-top: 0;
+          }
+        }
+      }
+    }
+
+    &-item {
+      font-size: rem(14);
+      font-weight: 300;
+      text-transform: uppercase;
+
+      @include media-breakpoint-down(sm) {
+        + * {
+          margin-top: 1.375rem;
+        }
+      }
+    }
+  }
+
+  .social-block {
+    [class*='btn--'] {
+      &:not(.btn--phone) {
+        i {
+          width: rem(22);
+          height: rem(22);
+
+          @include media-breakpoint-up(md) {
+            width: rem(16);
+            height: rem(16);
+          }
+        }
+      }
+    }
+
+    .btn--phone {
+      @include media-breakpoint-up(md) {
+        display: none;
+      }
+    }
+  }
+
+  .copyright {
+    @include media-breakpoint-down(sm) {
+      width: 100%;
+      text-align: center;
+      padding-top: rem(26);
+      border-top: 1px solid rgba(#02020d, 0.2);
+    }
+  }
+
+  .order-md-last {
+    @include media-breakpoint-up(md) {
+      padding-bottom: 0;
+    }
+  }
+}

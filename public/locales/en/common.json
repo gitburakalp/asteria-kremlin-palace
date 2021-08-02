@@ -1,0 +1,512 @@
+{
+  "book_now": "Book Now",
+  "menu": [
+    {
+      "title": "accommodation",
+      "href": "/accommodation"
+    },
+    {
+      "title": "restaurants",
+      "href": "/restaurants"
+    },
+    {
+      "title": "activities",
+      "href": "/activities"
+    },
+    {
+      "title": "spa wellness",
+      "href": "/spa-wellness"
+    },
+    {
+      "title": "conference",
+      "href": "/conference"
+    },
+    {
+      "title": "sport",
+      "href": "/sport"
+    }
+  ],
+  "seo": {
+    "homepage": "Homepage",
+    "Accommodation": "Accommodation",
+    "restaurants": "Restaurants",
+    "activities": "Activities",
+    "spa-wellness": "Spa & Wellness",
+    "conference": "Konferans",
+    "sport": "Sport",
+    "homepageHref": "/home",
+    "AccommodationHref": "/accommodation",
+    "restaurantsHref": "/restaurants"
+  },
+  "header": {
+    "our_hotels": "Our Hotels",
+    "homepage": "Homepage",
+    "Accommodation": "Accommodation",
+    "restaurants": "Restaurants",
+    "activities": "Activities",
+    "spa-wellness": "Spa & Wellness",
+    "conference": "Konferans",
+    "sport": "Sport"
+  },
+  "footer": {
+    "copyright": "© 2021 All Rights Reserved."
+  },
+  "home": {
+    "section_2": {
+      "title": "ASTERIA KREMLIN PALACE",
+      "subtitle": "Travel in time with Asteria Kremlin Palace",
+      "description": "Asteria Kremlin Palace was built inspired by Kremlin Palace in Moscow to give you a chance to feel the magnificent atmosphere and discover the home of the Russian Czars. The hotel is located in one of the most modern resorts of Antalya – Kundu.<br /><br />Kundu attracts tourists not only with close location to Antalya city center but also with the beauty of the golden beaches and relaxing atmosphere"
+    },
+    "section_3": {
+      "title": "SPECIAL FOR YOU",
+      "subtitle": "Please click for more details...",
+      "description": "Asteria Kremlin Palace offers you and your loved ones comfortable accommodation possibilites. Hotel’s location give you the possibility to explore the marvelous Antalya while offering magnificent atmosphere as well as quality service.",
+      "buttonTitle": "ACCOMMODATION",
+      "buttonDescription": "Please review in detail.",
+      "buttonHref": "/accommodation"
+    },
+    "section_4": {
+      "menu_description": "Asteria Kremlin Palace<br />A tariff that includes individual or group prices applied to  agencies, and poster-specific prices.",
+      "menu": [
+        {
+          "title": "factsheet",
+          "menuContent": [
+            {
+              "imageSource": "../public/images/stock-images/factsheets.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-1.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-2.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-3.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-4.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-5.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-6.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-7.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            }
+          ],
+          "menuContent_2": {
+            "title": "Keep In Touch",
+            "subtitle": "Follow us for news & Campaigns",
+            "description": "Today, many brands are actively using social networks, and they can<br />communicate directly with their target audience and potential customers through social networks.",
+            "cards": [
+              {
+                "imageSource": "../public/images/stock-images/follow-us-1.jpg",
+                "title": "Facebook",
+                "description": "Join our community what we have to offer you!",
+                "href": "/"
+              },
+              {
+                "imageSource": "../public/images/stock-images/follow-us-2.jpg",
+                "title": "Instagram",
+                "description": "Follow what we have to offer you!",
+                "href": "/"
+              }
+            ]
+          }
+        },
+        {
+          "title": "awards",
+          "awards_data": [
+            {
+              "imageSource": "../public/images/awards/awards-hotels.com-2021-2.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Hotels.com",
+              "buttonTitle": "2021 Award"
+            },
+            {
+              "imageSource": "../public/images/awards/awards-hotels.com-2021.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Hotels.com",
+              "buttonTitle": "2021 Award"
+            },
+            {
+              "imageSource": "../public/images/awards/awards-booking.com-2021.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Booking.com",
+              "buttonTitle": "2021 Award"
+            },
+            {
+              "imageSource": "../public/images/awards/awards-hotels.com-2020.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Hotels.com",
+              "buttonTitle": "2020 Award"
+            }
+          ]
+        },
+        {
+          "title": "multimedia",
+          "multimedia_data": [
+            {
+              "imageSource": "../public/images/stock-images/follow-us-1.jpg",
+              "title": "Video Gallery",
+              "description": "Check our videos.",
+              "href": "/"
+            },
+            {
+              "imageSource": "../public/images/stock-images/follow-us-2.jpg",
+              "title": "Photo Gallery",
+              "description": "Check our photos.",
+              "href": "/"
+            }
+          ]
+        },
+        {
+          "title": "contact",
+          "contact_data": [
+            {
+              "description": "<strong>Asteria Kremlin Palace</strong><br />Kundu Mahallesi, Yaşar Sobutay<br />Boulevard No:440/1 Aksu/Antalya<br/><br/><a href='tel:+902424312400'>T: +90 242 431 24 00</a>F: +90 850 582 18 83<a href='mailto:kremlinpalace@asteriahotels.com' >E: <strong>kremlinpalace@asteriahotels.com</strong></a>"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "accommodation": {
+    "title": "ACCOMMODATION",
+    "subtitle": "Check out our rooms for a pleasant holiday.",
+    "description": "Asteria Kremlin Palace offers you and your loved ones comfortable accommodation possibilites. Hotel’s location give you the possibility to explore the marvelous Antalya while offering magnificent atmosphere as well as quality service.",
+    "gallery_title": "Photo Gallery",
+    "main_image": "../public/images/accommodation/accommodation-main-image.jpeg",
+    "other_rooms": "Other Rooms",
+    "rooms": [
+      {
+        "buttonHref": "/accommodation/dublex-family-room",
+        "primary_title": "Dublex Family Room",
+        "title": "Dublex Family Room",
+        "description": "These 48 m² rooms have a balcony on the first floor with a double bed and a bathroom. On the second floor, which is connected by a staircase, there are two single beds and another bathroom. A maximum of 4 adults and one child up to 12 years old can stay in this room cathegory.",
+        "gallery_title": "",
+        "cardDescription": "Please click for details",
+        "cardImageSource": "../public/images/accommodation/dublex-family-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/dublex-family-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/dublex-family-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/dublex-family-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/standart-room-with-bunkbed",
+        "primary_title": "Standart Room With Bunkbed",
+        "title": "Standart Room With Bunkbed",
+        "description": "These 23 m² rooms have a balcony and a maximum of two adults and two children up to the age of 12 years can stay in this room category.",
+        "gallery_title": "",
+        "cardDescription": "Please click for details",
+        "cardImageSource": "../public/images/accommodation/standart-room-with-bunkbed.jpeg",
+        "imageList": [{ "imageSource": "../public/images/accommodation/gallery/standart-room-with-bunkbed-1.jpeg" }]
+      },
+      {
+        "buttonHref": "/accommodation/standart-rooms",
+        "primary_title": "Standart Rooms",
+        "title": "Standart Rooms",
+        "description": "These 23 m² rooms have a balcony. Maximum of 3 adults can stay in this room category.",
+        "gallery_title": "",
+        "cardDescription": "Please click for details",
+        "cardImageSource": "../public/images/accommodation/standart-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/standart-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/standart-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/standart-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/royal-deluxe",
+        "primary_title": "Royal Deluxe",
+        "title": "Royal Deluxe",
+        "description": "These 80 m² rooms have a double bed, a balcony, a living room, a kitchen and a maximum of 4 adults can stay in this room category.",
+        "gallery_title": "",
+        "cardDescription": "Please click for details",
+        "cardImageSource": "../public/images/accommodation/royal-deluxe.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/royal-deluxe-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-deluxe-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-deluxe-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/royal-king-suite",
+        "primary_title": "Royal King Suite",
+        "title": "Royal King Suite",
+        "description": "These 80 m² rooms have a double bed, a balcony, a living room, a kitchen, an office. Maximum of 4 adults can stay in this room category.",
+        "gallery_title": "",
+        "cardDescription": "Please click for details",
+        "cardImageSource": "../public/images/accommodation/royal-king-suite.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-3.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-4.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-5.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-6.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-7.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/superior-dublex-family-room",
+        "primary_title": "Superior Dublex Family Room",
+        "title": "Superior Dublex Family Room",
+        "description": "These 48 m² rooms have a balcony on the first floor with a double bed and a bathroom. On the second floor, which is connected by a staircase, there are two single beds and another bathroom. A maximum of 4 adults and one child up to 12 years can stay in this room category. This room category has been completely renovated.",
+        "gallery_title": "",
+        "cardDescription": "Please click for details",
+        "cardImageSource": "../public/images/accommodation/superior-dublex-family-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/superior-dublex-family-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-dublex-family-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-dublex-family-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/superior-standart-room",
+        "primary_title": "Superior Standart Room",
+        "title": "Superior Standart Room",
+        "description": "These 23 m² rooms have a balcony and a maximum of 3 adults can stay in this room category. This room category has been completely renovated.",
+        "gallery_title": "",
+        "cardDescription": "Please click for details",
+        "cardImageSource": "../public/images/accommodation/superior-standart-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/superior-standart-swim-up-room",
+        "primary_title": "Superior Standart Swim Up Room",
+        "title": "Superior Standart Swim Up Room",
+        "description": "These 23 m² rooms have a balcony and a maximum of 3 adults can stay in this room category. This room category has been completely renovated and has an access to swim up pools.",
+        "gallery_title": "",
+        "cardDescription": "Please click for details",
+        "cardImageSource": "../public/images/accommodation/superior-standart-swim-up-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-swim-up-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-swim-up-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-swim-up-room-3.jpeg" }
+        ]
+      }
+    ]
+  },
+  "restaurants": {
+    "title": "RESTAURANTS",
+    "subtitle": "We are with you with our delicious food",
+    "description": "Take a trip to the world of flavours with Asteria Hotels. Expert chefs, unique mouth-watering flavours will amaze you. Knowledge, experience; carefully selected tastes, different insights and modern presentations add wonder to the table. “A la carte” restaurants with different concepts offer carefully selected flavour examples from different world cuisines.<br/>Hot or cold, alcoholic or non-alcoholic beverages, the most popular teas and coffees, and very special cocktails add colour to the world of Asteria. ",
+    "main_image": "../public/images/restaurants/restaurants-main-image.jpeg",
+    "all_restaurants_title": "Our restaurants in our hotel",
+    "all_restaurants": [
+      "ARBAT BAR",
+      "DiVO BAR",
+      "EL SOMBRERO RESTAURANT",
+      "PASHA A LA CARTE",
+      "RISTORANTE LA GONDOLA",
+      "SENAT DiSCO BAR",
+      "MARINE RESTAURANT",
+      "STOLITSA RESTAURANT",
+      "ZVEZDA BAR",
+      "AVRORA BEACH BAR",
+      "PUSHKIN CAFE BAR",
+      "BEER HOUSE"
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-1.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-2.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-3.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-4.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-5.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-6.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-7.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-8.jpeg" }
+    ]
+  },
+  "activities": {
+    "title": "ACTIVITIES",
+    "description": "Asteria Kremlin Palace offers unlimited entertainment to its guests with all day long sports and entertainment activities. Evenings colored with fun animation shows continue until late hours with open air disco. Table tennis, table football, darts, pool games attract those who want to spend a sports holiday at Asteria Kremlin Palace. Younger guests can spend enjoyable hours with their peers in the carefully organized Asteria Kids Club with fun and educational activities.",
+    "main_image": "../public/images/activities/activities-main-image.jpeg",
+    "items": [
+      {
+        "title": "ACTIVITIES",
+        "description": "Water park with slide, table tennis, beach volleyball, basketball, tennis, water polo, pool games, mini football, darts, boccia etc.<br/> A healthy and fun-filled holiday awaits you with many activities."
+      },
+      {
+        "title": "NIGHT LIFE",
+        "description": "Live performances, special shows, gala nights, themed parties, dj performance, Senat Disco, piano concert, etc.<br/> The nights are very colorful with many night entertainment."
+      },
+      { "title": "DAILY ANIMATIONS", "description": "Aerobics, water gymnastics, morning gymnastics, yoga, etc.<br/> You can join our daily animations and enjoy the holiday to the fullest." }
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/activities/gallery/activities-1.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-2.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-3.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-4.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-5.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-6.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-7.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-8.jpeg" }
+    ]
+  },
+  "spa-wellness": {
+    "title": "SPA & WELLNESS",
+    "description": "Rejuvenate your mind and body with a team of professionals<br/><br/>Everything is for your satisfaction at Asteria Kremlin Palace Spa Center! Experienced staff, quality materials, effective care programmes and more are at your disposal at our Spa Center... You will get rid off all the exhausting affects of the year and feel renewed with tailor-made programmes in a relaxing atmosphere!",
+    "main_image": "../public/images/spa-wellness/spa-wellness-main-image.jpeg",
+    "items": [
+      {
+        "title": "Spa",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu augue non nulla facilisis volutpat vitae non nisl.<br /> Proin luctus tortor ut luctus condimentum. Cras viverra lorem mollis nisl varius, non vehicula justo vehicula. "
+      },
+      {
+        "title": "Message",
+        "description": "Proin ornare bibendum sem, vel posuere libero pellentesque eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi nec lacus ac nulla eleifend aliquet in nec nulla. Suspendisse dapibus, lacus et vehicula sagittis, dolor quam semper ligula, sed luctus odio mauris in dolor."
+      },
+      {
+        "title": "Relaxation Pool",
+        "description": "Cras nec pharetra felis. In finibus neque id sem aliquet scelerisque. Donec eu tempus nunc, eget euismod erat. Duis tincidunt tempus nunc, sit amet porttitor arcu fringilla ac. Duis nec consectetur arcu. Integer laoreet mauris eget leo condimentum, quis commodo leo rutrum. "
+      }
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-1.jpeg" },
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-2.jpeg" },
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-3.jpeg" },
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-4.jpeg" }
+    ]
+  },
+  "conference": {
+    "title": "CONFERENCE",
+    "description": "Asteria Kremlin Palace has a large 2520 m2 big conference hall that can be divided into 3 parts with separators according to the required sizes. The capacity of the hall when used as one piece with a theater sitting plan is 3000 people. The same hall may be divided into halls with 800, 1200 and 1000 person capacity. The main hall can be used for gala dinner for up to 2000 people. There are also 7 workshop room which can be separated according to different capacities. Each room has a separately controllable light and air conditioning system.",
+    "main_image": "../public/images/conference/conference-main-image.jpeg",
+    "imageList": [
+      { "imageSource": "../public/images/conference/gallery/conference-1.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-2.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-3.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-4.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-5.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-6.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-7.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-8.jpeg" }
+    ]
+  },
+  "sport": {
+    "title": "SPORT",
+    "subtitle": "Check out our facilities where you continue your sports activities.",
+    "description": "Nulla ac dictum justo, non finibus sem. Phasellus imperdiet ornare est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque condimentum metus tincidunt tincidunt euismod. Nulla consequat ut tellus id luctus. Sed et orci finibus, malesuada nulla non, malesuada ipsum. Maecenas et placerat lectus. Ut pulvinar libero a sapien commodo consectetur. Mauris iaculis risus nulla, eget rutrum sapien porttitor ut. Nam accumsan tempor nunc.",
+    "main_image": "../public/images/sport/sport-main-image.jpeg",
+    "items": [
+      {
+        "title": "Football",
+        "description": "Asteria Kremlin Palace Football Center has 6 natural turf football fields and 1 synthetic football field. Additionally providing; covered grandstand with seating capacity for 600 people, professional lighting for night matches, scoreboard, 6 team locker rooms, 2 referee locker rooms, press room and VIP lounge. Also bus and car parking areas are available for fans and teams seperately."
+      },
+      {
+        "title": "Beach Volleyball",
+        "description": "Within Asteria Kremlin Palace, there are a total of 16 fields with 16X8 meter dimensions in FIVB standards."
+      },
+      {
+        "title": "Tennis",
+        "description": "There are 8 clay tennis courts in international standards, which are illuminated completely."
+      }
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/sport/gallery/sport-1.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-2.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-3.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-4.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-5.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-6.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-7.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-8.jpeg" }
+    ]
+  },
+  "kids_club": {
+    "title": "ASTERIA KIDS CLUB",
+    "description": "Our Asteria Kids Club is a specially designed entertainment centre for our little guests to let them feel special during their holiday.<br/>Our miniclub animators organise different activities for children 4 – 14 years old between 10:00 and 22:00. An indoor and outdoor playground area is available. Accompanied by our experienced animators; different sport activities, pool games, competitions and creative activities are organised every day for our little guests in the miniclub.",
+    "main_image": "../public/images/kids-club/kids-club-main-image.jpeg",
+    "items_title": "Our services",
+    "kids_club_list": [
+      "Thematic activities every day",
+      "Special games and courses",
+      "Pool games and painting",
+      "Specially designed children buffet at the main restaurant",
+      "Baby chair at the main restaurant",
+      "Private babysitting services (extra and reservation required)",
+      "Private child care (extra and reservation required)"
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-1.png" },
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-2.jpeg" },
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-3.png" },
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-4.jpeg" }
+    ]
+  },
+  "marriage_and_honeymoon": {
+    "title": "MARRIAGE & HONEYMOON",
+    "description": "Asteria Hotels, arranged a special honeymoon package for you to enjoy this most special holiday of your life. All you have to do is to book a one of Asteria Hotels, holiday to enjoy a honeymoon with services that will make you feel priviliged and leave memories that will last for a life time.",
+    "main_image": "../public/images/stock-images/mariage-and-honeymoon-main-image.jpeg",
+    "items": [
+      {
+        "title": "HONEYMOON",
+        "description": "Asteria Hotels, arranged a special honeymoon package for you to enjoy this most special holiday of your life. All you have to do is to book a one of Asteria Hotels, holiday to enjoy a honeymoon with services that will make you feel priviliged and leave memories that will last for a life time..",
+        "subtitle": "Honeymoon Package",
+        "packages": [
+          "Bathrobe",
+          "Slippers",
+          "Kettle",
+          "Tea & coffee set",
+          "VIP room amenities",
+          "Fruit Plate",
+          "Wine",
+          "Sweets and nuts plate",
+          "1 free breakfast service in the room (Reservation must be organized on the day of arrival)",
+          "1 free reservation at one of our À la Carte Restaurants (Reservation must be organized on the day of arrival)",
+          "<strong>Notes:</strong> Couples wishing to use the honeymoon package are required to show their marriage certificate during check-in process and the arrival date must be within 6 months from the date of marriage.",
+          "Some details (Place / Time / Date) in the honeymoon package must be notified by the guests themselves during their stay. In honeymoon concept, some services are organised according to availability and upon request."
+        ]
+      },
+      {
+        "title": "WEDDING",
+        "description": "Say YES one more time in front of thousands of people. An unforgettable wedding ceremony including a hotel tour in a specially decorated car, music and dancing to the music selected by you, special table arrangements, a registrator and animation program…",
+        "subtitle": "Packages:",
+        "packages": [
+          "Ice cream with assorted fruits",
+          "Special wedding cake",
+          "Cold champagne",
+          "Specially decorated wedding table at the pier",
+          "Flowers for the bride",
+          "Registrator",
+          "Two witnesses, one of them is a manager of the hotel",
+          "Refreshing beverages",
+          "<strong>P.S.</strong> This ceremony is held in the evening on a pier in front of a lot of people on the beach."
+        ]
+      }
+    ]
+  }
+}

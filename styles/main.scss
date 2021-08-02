@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+//Colors
+@import "./colors";
+
+//Override Bootstrap variables
+@import "./overrides";
+
+//Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+//Swiper
+@import "../node_modules/swiper/swiper.scss";
+
+//Abstracts
+@import "./abstracts/index.scss";
+
+//Base Styles
+@import "./base/index.scss";
+
+//Layout Styles
+@import "./layout/index.scss";
+
+//Components
+@import "components/index.scss";

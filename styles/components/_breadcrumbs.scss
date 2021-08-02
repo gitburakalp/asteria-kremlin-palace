@@ -1,0 +1,50 @@
+.breadcrumbs {
+  position: relative;
+  padding-top: rem(10);
+
+  + .image-section + * {
+    padding-top: rem(16) !important;
+  }
+
+  ul {
+    display: flex;
+    flex-wrap: nowrap;
+
+    > * {
+      position: relative;
+      width: auto;
+
+      a {
+        display: block;
+        font-size: 1rem;
+        text-transform: capitalize;
+        cursor: pointer;
+        transition: color 500ms;
+
+        &.active {
+          color: #e78a46;
+        }
+
+        &:hover {
+          &:not(.active) {
+            color: rgba(0, 0, 0, 0.5) !important;
+          }
+        }
+      }
+
+      + * {
+        margin-left: 1rem;
+        padding-left: 1rem;
+
+        &::before {
+          content: '>';
+          position: absolute;
+          left: 0;
+          top: 50%;
+          transform: translateY(-50%);
+          color: #c38976;
+        }
+      }
+    }
+  }
+}

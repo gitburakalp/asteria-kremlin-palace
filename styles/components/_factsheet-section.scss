@@ -1,0 +1,111 @@
+.factsheet-section {
+  display: flex;
+  flex-wrap: wrap;
+
+  @include media-breakpoint-between(md, xl) {
+    margin-right: -4vw;
+    padding-right: 4vw;
+  }
+
+  @include media-breakpoint-up(xl) {
+    max-width: calcPercent(1440 - (235 + 237), 1170);
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+  }
+
+  + * {
+    margin-top: rem(62);
+  }
+
+  .figure {
+    overflow: hidden;
+    padding-top: 250 / 200 * 100%;
+    border-radius: 4px;
+
+    a {
+      position: absolute;
+      display: block;
+      width: 82.48%;
+      max-width: 82.48%;
+      background-color: rgba(87, 87, 87, 0.4);
+      backdrop-filter: blur(2.352px);
+      border-top-right-radius: 4.7px;
+      border-bottom-right-radius: 4.7px;
+      bottom: 1rem;
+      padding-left: rem(14);
+      padding-bottom: 1rem;
+      padding-top: 1rem;
+      padding-right: 1.4rem;
+      font-family: $ff-headings;
+      font-size: rem(14);
+      font-weight: 300;
+      color: $white;
+
+      @include media-breakpoint-up(md) {
+        font-size: rem(12);
+      }
+
+      > * {
+        &:first-child {
+          font-size: rem(8);
+          font-weight: 500;
+          display: block;
+          text-transform: uppercase;
+        }
+      }
+
+      .icons {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translate(50%, -50%);
+      }
+    }
+  }
+
+  > * {
+    flex: 0 0 rem(200);
+
+    &:nth-child(n + 5) {
+      margin-top: rem(50);
+    }
+  }
+}
+
+.two-cards-block {
+  @include media-breakpoint-up(md) {
+    margin-top: rem(30);
+  }
+
+  [class*='col'] {
+    @include media-breakpoint-down(sm) {
+      &:not(:first-child) {
+        margin-top: 2rem;
+      }
+    }
+
+    @include media-breakpoint-up(xl) {
+      flex: 0 0 calcPercent(475, 1194);
+      width: calcPercent(475, 1194);
+      margin-left: calcPercent(40, 1194);
+      margin-right: calcPercent(40, 1194);
+    }
+  }
+
+  .figure {
+    padding-top: 298 / 347 * 100%;
+
+    @include media-breakpoint-up(xl) {
+      padding-top: 269 / 445 * 100%;
+    }
+  }
+}
+
+.multimedia-section {
+  @include media-breakpoint-down(sm) {
+    .swiper-slide .figure.has-radius {
+      padding-top: 292.2 / 300 * 100%;
+    }
+  }
+}

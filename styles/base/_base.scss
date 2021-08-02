@@ -1,0 +1,71 @@
+html {
+  @include media-breakpoint-between(lg, xl) {
+    font-size: 125%;
+  }
+}
+
+body {
+  overflow-x: hidden;
+
+  main {
+    > section {
+      + * {
+        padding-top: rem(34);
+      }
+
+      [class*='swiper-container'] + * {
+        margin-top: rem(40);
+      }
+    }
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+@for $i from 1 to 7 {
+  h#{$i},
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.container {
+  @include media-breakpoint-between(sm, xl) {
+    max-width: vw(768 - 36.94, 768);
+  }
+
+  @include media-breakpoint-up(xl) {
+    max-width: rem(1194);
+  }
+}
+
+ul {
+  &:not(.list) {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+
+    a {
+      text-decoration: none;
+      color: inherit;
+
+      &:hover {
+        text-decoration: none;
+        color: inherit;
+      }
+    }
+  }
+}
+
+.btn {
+  padding-left: rem(18);
+  padding-right: rem(18);
+}
+
+.position-xl-relative {
+  @include media-breakpoint-up(xl) {
+    position: relative;
+  }
+}

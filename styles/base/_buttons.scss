@@ -1,0 +1,113 @@
+.figure {
+  [class*='-button'] {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    &.full-width {
+      left: 0;
+    }
+
+    &:not([class*='glass']) {
+      right: 0;
+    }
+  }
+
+  .image-button {
+    background-color: #e7a954;
+    padding-left: rem(19);
+    height: rem(80);
+
+    &.full-width {
+      padding-right: rem(23);
+
+      @include media-breakpoint-up(xl) {
+        padding-right: rem(18);
+      }
+
+      .icons {
+        right: rem(23);
+
+        @include media-breakpoint-up(xl) {
+          right: rem(18);
+        }
+      }
+    }
+
+    span {
+      &:first-child {
+        display: block;
+        font-family: $ff-headings;
+        font-size: rem(28);
+        line-height: 1;
+        color: $black;
+        text-transform: uppercase;
+
+        @include media-breakpoint-up(xl) {
+          font-size: rem(26);
+        }
+      }
+
+      &:nth-child(2) {
+        font-family: $ff-serif;
+        font-size: rem(14);
+        color: $white;
+
+        @include media-breakpoint-up(xl) {
+          font-size: rem(17);
+        }
+      }
+    }
+
+    .icons {
+      position: absolute;
+      width: rem(35);
+      height: rem(35);
+
+      @include media-breakpoint-up(xl) {
+        width: rem(60);
+        height: rem(60);
+      }
+    }
+  }
+
+  .glass-button {
+    width: 82.48%;
+    max-width: 82.48%;
+    background-color: rgba(87, 87, 87, 0.4);
+    backdrop-filter: blur(2.352px);
+    border-top-right-radius: 4.7px;
+    border-bottom-right-radius: 4.7px;
+    bottom: 1rem;
+    padding-left: rem(14);
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    padding-right: 1.4rem;
+    font-family: $ff-sans-serif;
+    font-size: rem(14);
+    font-weight: 300;
+    color: $white;
+
+    @include media-breakpoint-up(md) {
+      font-size: rem(12);
+    }
+
+    > * {
+      &:first-child {
+        font-size: rem(9);
+        font-weight: 700;
+        display: block;
+        text-transform: uppercase;
+      }
+    }
+
+    .icons {
+      position: absolute;
+      top: 50%;
+      right: 0;
+      transform: translate(50%, -50%);
+    }
+  }
+}

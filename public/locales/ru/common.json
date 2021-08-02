@@ -1,0 +1,517 @@
+{
+  "book_now": "ЗАБРОНИРОВАТЬ СЕЙЧАС",
+  "menu": [
+    {
+      "title": "accommodation",
+      "href": "/accommodation"
+    },
+    {
+      "title": "restaurants",
+      "href": "/restaurants"
+    },
+    {
+      "title": "activities",
+      "href": "/activities"
+    },
+    {
+      "title": "spa wellness",
+      "href": "/spa-wellness"
+    },
+    {
+      "title": "conference",
+      "href": "/conference"
+    },
+    {
+      "title": "sport",
+      "href": "/sport"
+    }
+  ],
+  "seo": {
+    "homepage": "ГЛАВНАЯ",
+    "Accommodation": "Accommodation",
+    "restaurants": "Restaurants",
+    "activities": "Activities",
+    "spa-wellness": "Spa & Wellness",
+    "conference": "Konferans",
+    "sport": "Sport",
+    "homepageHref": "/home",
+    "AccommodationHref": "/accommodation",
+    "restaurantsHref": "/restaurants"
+  },
+  "header": {
+    "our_hotels": "Our Hotels",
+    "homepage": "ГЛАВНАЯ",
+    "Accommodation": "РАЗМЕЩЕНИЕ",
+    "restaurants": "РЕСТОРАНЫ",
+    "activities": "РАЗВЛЕЧЕНИЯ",
+    "spa-wellness": "СПА И",
+    "conference": "КОНФЕРЕНЦ",
+    "sport": "СПОРТ"
+  },
+  "footer": {
+    "copyright": "© 2021 All Rights Reserved."
+  },
+  "home": {
+    "section_2": {
+      "title": "ASTERIA KREMLIN PALACE",
+      "subtitle": "Будьте готовы к путешествию во времени с Asteria Kremlin Palace…      ",
+      "description": "Все великолепие Московского Кремля мы бережно перенесли на средиземноморское побережье. Отельный комплекс Asteria Kremlin Palace, выполненный с точностью по аналогии Кремля, предлагает своим гостям сказочный отдых на одном из самых современных курортов Антальи — Кунду. Кунду привлекает туристов не только всеми развлечениями курортной столицы Турции, но и красотой золотистых пляжей и расслабляющей атмосферой.      "
+    },
+    "section_3": {
+      "title": "SPECIAL FOR YOU",
+      "subtitle": "Please click for more details...",
+      "description": "Asteria Kremlin Palace offers you and your loved ones comfortable accommodation possibilites. Hotel’s location give you the possibility to explore the marvelous Antalya while offering magnificent atmosphere as well as quality service.",
+      "buttonTitle": "РАЗМЕЩЕНИЕ",
+      "buttonDescription": "пожалуйста, нажмите подробнее.",
+      "buttonHref": "/accommodation"
+    },
+    "section_4": {
+      "menu_description": "Asteria Kremlin Palace<br />A tariff that includes individual or group prices applied to  agencies, and poster-specific prices.",
+      "menu": [
+        {
+          "title": "factsheet",
+          "menuContent": [
+            {
+              "imageSource": "../public/images/stock-images/factsheets.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-1.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-2.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-3.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-4.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-5.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-6.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            },
+            {
+              "imageSource": "../public/images/stock-images/factsheets-7.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Asteria Kremlin Palace",
+              "buttonTitle": "2020 - 2021 WINTER"
+            }
+          ],
+          "menuContent_2": {
+            "title": "Keep In Touch",
+            "subtitle": "Follow us for news & Campaigns",
+            "description": "Today, many brands are actively using social networks, and they can<br />communicate directly with their target audience and potential customers through social networks.",
+            "cards": [
+              {
+                "imageSource": "../public/images/stock-images/follow-us-1.jpg",
+                "title": "Facebook",
+                "description": "Join our community what we have to offer you!",
+                "href": "/"
+              },
+              {
+                "imageSource": "../public/images/stock-images/follow-us-2.jpg",
+                "title": "Instagram",
+                "description": "Follow what we have to offer you!",
+                "href": "/"
+              }
+            ]
+          }
+        },
+        {
+          "title": "awards",
+          "awards_data": [
+            {
+              "imageSource": "../public/images/awards/awards-hotels.com-2021-2.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Hotels.com",
+              "buttonTitle": "2021 Award"
+            },
+            {
+              "imageSource": "../public/images/awards/awards-hotels.com-2021.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Hotels.com",
+              "buttonTitle": "2021 Award"
+            },
+            {
+              "imageSource": "../public/images/awards/awards-booking.com-2021.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Booking.com",
+              "buttonTitle": "2021 Award"
+            },
+            {
+              "imageSource": "../public/images/awards/awards-hotels.com-2020.jpg",
+              "buttonHref": "/",
+              "buttonSmallTitle": "Hotels.com",
+              "buttonTitle": "2020 Award"
+            }
+          ]
+        },
+        {
+          "title": "multimedia",
+          "multimedia_data": [
+            {
+              "imageSource": "../public/images/stock-images/follow-us-1.jpg",
+              "title": "Video Gallery",
+              "description": "Check our videos.",
+              "href": "/"
+            },
+            {
+              "imageSource": "../public/images/stock-images/follow-us-2.jpg",
+              "title": "Photo Gallery",
+              "description": "Check our photos.",
+              "href": "/"
+            }
+          ]
+        },
+        {
+          "title": "contact",
+          "contact_data": [
+            {
+              "description": "<strong>Asteria Kremlin Palace</strong><br />Kundu Mahallesi, Yaşar Sobutay<br />Boulevard No:440/1 Aksu/Antalya<br/><br/><a href='tel:+902424312400'>T: +90 242 431 24 00</a>F: +90 850 582 18 83<a href='mailto:kremlinpalace@asteriahotels.com' >E: <strong>kremlinpalace@asteriahotels.com</strong></a>"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "accommodation": {
+    "title": "РАЗМЕЩЕНИЕ",
+    "subtitle": "Check out our rooms for a pleasant holiday.",
+    "description": "Asteria Kremlin Palace предлагает Вам и Вашим близким комфортное размещение. Расположение отеля дает Вам возможность изучить чудесную Анталию, одновременно предлагая великолепную атмосферу а также качественное обслуживание.",
+    "gallery_title": "ФОТОГАЛЕРЕЯ",
+    "main_image": "../public/images/accommodation/accommodation-main-image.jpeg",
+    "other_rooms": "Other Rooms",
+    "rooms": [
+      {
+        "buttonHref": "/accommodation/dublex-family-room",
+        "primary_title": "Dublex Family Room",
+        "title": "СЕМЕЙНЫЕ НОМЕРА DUPLEX",
+        "description": "Эти номера площадью 48 м² имеют балкон двуспальную кровать и ванную комнату. На втором этаже, две односпальные кровати и еще одна ванная комната. В номере данной категории могут проживать до 4 взрослых и 1 ребенок до 12 лет.",
+        "gallery_title": "",
+        "cardDescription": "пожалуйста, нажмите подробнее.",
+        "cardImageSource": "../public/images/accommodation/dublex-family-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/dublex-family-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/dublex-family-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/dublex-family-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/standart-room-with-bunkbed",
+        "primary_title": "Standart Room With Bunkbed",
+        "title": "СТАНДАРТНЫЙ НОМЕР С ДВУХЪЯРУСНОЙ КРОВАТЬЮ",
+        "description": "В этих номерах площадью 23 м² есть балкон. В номерах данной категории могут разместиться максимум двое взрослых и двое детей в возрасте до 12 лет.",
+        "gallery_title": "",
+        "cardDescription": "пожалуйста, нажмите подробнее.",
+        "cardImageSource": "../public/images/accommodation/standart-room-with-bunkbed.jpeg",
+        "imageList": [{ "imageSource": "../public/images/accommodation/gallery/standart-room-with-bunkbed-1.jpeg" }]
+      },
+      {
+        "buttonHref": "/accommodation/standart-rooms",
+        "primary_title": "Standart Rooms",
+        "title": "СТАНДАРТНЫЕ НОМЕРА",
+        "description": "В этих номерах площадью 23 м² есть балкон. В номерах данной категории могут разместиться до 3 взрослых.",
+        "gallery_title": "",
+        "cardDescription": "пожалуйста, нажмите подробнее.",
+        "cardImageSource": "../public/images/accommodation/standart-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/standart-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/standart-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/standart-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/royal-deluxe",
+        "primary_title": "Royal Deluxe",
+        "title": "Royal Deluxe",
+        "description": "В этих номерах площадью 80 м² есть двуспальная кровать, балкон, гостиная, кухня. В номерах данной категории могут разместиться до 4 взрослых.",
+        "gallery_title": "",
+        "cardDescription": "пожалуйста, нажмите подробнее.",
+        "cardImageSource": "../public/images/accommodation/royal-deluxe.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/royal-deluxe-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-deluxe-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-deluxe-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/royal-king-suite",
+        "primary_title": "Royal King Suite",
+        "title": "Royal King Suite",
+        "description": "В этих номерах площадью 80 м² есть двуспальная кровать, балкон, гостиная, кухня, кабинет. В номерах данной категории могут разместиться до 4 взрослых.",
+        "gallery_title": "",
+        "cardDescription": "пожалуйста, нажмите подробнее.",
+        "cardImageSource": "../public/images/accommodation/royal-king-suite.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-3.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-4.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-5.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-6.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/royal-king-suite-7.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/superior-dublex-family-room",
+        "primary_title": "Superior Dublex Family Room",
+        "title": "Superior Dublex Family Room",
+        "description": "Эти номера площадью 48 м² имеют балкон двуспальную кровать и ванную комнату. На втором этаже, две односпальные кровати и еще одна ванная комната. В номере данной категории могут проживать до 4 взрослых и 1 ребенок до 12 лет. Эта категория номеров была полностью отремонтирована.",
+        "gallery_title": "",
+        "cardDescription": "пожалуйста, нажмите подробнее.",
+        "cardImageSource": "../public/images/accommodation/superior-dublex-family-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/superior-dublex-family-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-dublex-family-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-dublex-family-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/superior-standart-room",
+        "primary_title": "Superior Standart Room",
+        "title": "Superior Standart Room",
+        "description": "В этих номерах площадью 23 м² есть балкон. В номерах данной категории могут разместиться до 3 взрослых. Эта категория номеров была полностью отремонтирована.",
+        "gallery_title": "",
+        "cardDescription": "пожалуйста, нажмите подробнее.",
+        "cardImageSource": "../public/images/accommodation/superior-standart-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-room-3.jpeg" }
+        ]
+      },
+      {
+        "buttonHref": "/accommodation/superior-standart-swim-up-room",
+        "primary_title": "Superior Standart Swim Up Room",
+        "title": "Superior Standart Swim Up Room",
+        "description": "В этих номерах площадью 23 м² есть балкон. В номерах данной категории могут разместиться до 3 взрослых.",
+        "gallery_title": "",
+        "cardDescription": "пожалуйста, нажмите подробнее.",
+        "cardImageSource": "../public/images/accommodation/superior-standart-swim-up-room.jpeg",
+        "imageList": [
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-swim-up-room-1.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-swim-up-room-2.jpeg" },
+          { "imageSource": "../public/images/accommodation/gallery/superior-standart-swim-up-room-3.jpeg" }
+        ]
+      }
+    ]
+  },
+  "restaurants": {
+    "title": "РЕСТОРАНЫ",
+    "subtitle": "",
+    "description": "Отправьтесь всей семьёй в увлекательное кулинарное путешествие с Asteria Hotels. Талантливые повара и ароматные блюда поразят Вас. Все блюда тщательно отбираются из лучших рецептов мировой кухни, чтобы угодить вкусу каждого гостя. Тщательно отобранные образцы мировых кухон представлены в наших ресторанах «A la carte», дизайн которых не оставит Вас равнодушным. Разнообразие десертов, напитков и коктейлей делает мир Asteria ещё слаще.",
+    "main_image": "../public/images/restaurants/restaurants-main-image.jpeg",
+    "all_restaurants_title": "Our restaurants in our hotel",
+    "all_restaurants": [
+      "АРБАТ БАР",
+      "ДИВО БАР",
+      "ЭЛСОМБРЕРО АЛЯ КАРТ РЕСТОРАН",
+      "ПАША АЛЯ КАРТ РЕСТОРАН",
+      "ЛАГАНДОЛА АЛЯ КАРТ РЕСТОРАН",
+      "МАРИН АЛЯ КАРТ РЕСТОРАН",
+      "СЕНАТ ДИСКО БАР",
+      "СТОЛИЦА РЕСТОРАН",
+      "ЗВЕЗДА БАР",
+      "АВРОРА БИЧ БАР",
+      "ПУШКИН КАФЕ БАР",
+      "ПИВО БАР"
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-1.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-2.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-3.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-4.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-5.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-6.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-7.jpeg" },
+      { "imageSource": "../public/images/restaurants/gallery/restaurant-8.jpeg" }
+    ]
+  },
+  "activities": {
+    "title": "РАЗВЛЕЧЕНИЯ",
+    "description": "Asteria Kremlin Palace предлагает своим гостям неограниченное количество развлечений, включая спортивные и развлекательные мероприятия в течение всего дня. Вечера, наполненные веселыми анимационными шоу, продолжаются до поздней ночи с дискотекой на открытом воздухе.<br><br>Asteria Kremlin Palace привлекает любителей спорта настольный теннис Мини футбол, дартс, игры в бассейне и широкий спектр водных видов спорта. Маленькие гости могут весело провести время со своими сверстниками в тщательно организованном детском клубе Asteria, где проводятся веселые и познавательные мероприятия.",
+    "main_image": "../public/images/activities/activities-main-image.jpeg",
+    "items": [
+      {
+        "title": "РАЗВЛЕЧЕНИЯ",
+        "description": "Аквапарк с водными горками, настольный теннис, пляжный волейбол, баскетбол, теннис, водное поло, игры в бассейне, мини-футбол, дартс, бочча и т.д. Здоровый и веселый отдых ждет вас с множеством занятий."
+      },
+      {
+        "title": "НОЧНАЯ ЖИЗНЬ",
+        "description": "Живые выступления, специальные шоу, гала-вечера, тематические вечеринки, выступления диджеев, дискотека Senat, фортепианный концерт и т. Д. Ночи очень красочные, с множеством ночных развлечений."
+      },
+      {
+        "title": "ЕЖЕДНЕВНЫЕ АНИМАЦИИ",
+        "description": "Аэробика, водная гимнастика, утренняя гимнастика, йога и др. Вы можете присоединиться к нашим ежедневным анимациям и насладиться праздником в полной мере."
+      }
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/activities/gallery/activities-1.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-2.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-3.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-4.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-5.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-6.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-7.jpeg" },
+      { "imageSource": "../public/images/activities/gallery/activities-8.jpeg" }
+    ]
+  },
+  "spa-wellness": {
+    "title": "СПА и ОЗДОРОВИТЕЛЬНЫЙ",
+    "description": "Расслабьте душу и тело с профессиональной командой...<br><br>В SPA центре Asteria Kremlin Palace все для Вашего счастья! Опытные специалисты, высококачественные продукты, эффективные программы и многое другое к вашим услугам... В расслабляющей атмосфере при помощи специальных программ вы сбросите за год накопившуюся усталость и почувствуете ощущение бодрости, как будто родились снова!",
+    "main_image": "../public/images/spa-wellness/spa-wellness-main-image.jpeg",
+    "items": [
+      {
+        "title": "Spa",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu augue non nulla facilisis volutpat vitae non nisl.<br /> Proin luctus tortor ut luctus condimentum. Cras viverra lorem mollis nisl varius, non vehicula justo vehicula. "
+      },
+      {
+        "title": "Message",
+        "description": "Proin ornare bibendum sem, vel posuere libero pellentesque eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi nec lacus ac nulla eleifend aliquet in nec nulla. Suspendisse dapibus, lacus et vehicula sagittis, dolor quam semper ligula, sed luctus odio mauris in dolor."
+      },
+      {
+        "title": "Relaxation Pool",
+        "description": "Cras nec pharetra felis. In finibus neque id sem aliquet scelerisque. Donec eu tempus nunc, eget euismod erat. Duis tincidunt tempus nunc, sit amet porttitor arcu fringilla ac. Duis nec consectetur arcu. Integer laoreet mauris eget leo condimentum, quis commodo leo rutrum. "
+      }
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-1.jpeg" },
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-2.jpeg" },
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-3.jpeg" },
+      { "imageSource": "../public/images/spa-wellness/gallery/spa-wellness-4.jpeg" }
+    ]
+  },
+  "conference": {
+    "title": "КОНФЕРЕНЦ",
+    "description": "К услугам гостей предоставляется большой конференц-зал площадью 2520 м2, который можно разделить на 3 части в соответствии с требуемыми размерами. Вместимость зала при использовании в качестве одной части составляет 3000 человек. Один и тот же зал можно разделить на залы по 800, 1200 и 1000 человек. Главный зал можно использовать для торжественного ужина на 2000 человек. Есть также 7 секций, которые можно разделить в соответствии с требуемой вместимостью.. В каждой секции есть отдельная управляемая система освещения и кондиционирования воздуха.",
+    "main_image": "../public/images/conference/conference-main-image.jpeg",
+    "imageList": [
+      { "imageSource": "../public/images/conference/gallery/conference-1.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-2.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-3.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-4.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-5.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-6.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-7.jpeg" },
+      { "imageSource": "../public/images/conference/gallery/conference-8.jpeg" }
+    ]
+  },
+  "sport": {
+    "title": "СПОРТ",
+    "subtitle": "Check out our facilities where you continue your sports activities.",
+    "description": "Nulla ac dictum justo, non finibus sem. Phasellus imperdiet ornare est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque condimentum metus tincidunt tincidunt euismod. Nulla consequat ut tellus id luctus. Sed et orci finibus, malesuada nulla non, malesuada ipsum. Maecenas et placerat lectus. Ut pulvinar libero a sapien commodo consectetur. Mauris iaculis risus nulla, eget rutrum sapien porttitor ut. Nam accumsan tempor nunc.",
+    "main_image": "../public/images/sport/sport-main-image.jpeg",
+    "items": [
+      {
+        "title": "Футбол",
+        "description": "Футбольный центр « Asteria Kremlin Palace» располагает 6 футбольными полями из натуральной травы и  1 с  искусственным покрытием футбольным полем. Кроме того, есть крытая трибуна рассчитанная на 600 человек, профессиональное освещение для ночных матчей, табло, 6 раздевалок для команд, 2 раздевалки для судей, пресс-зал, VIP-зал. Отдельные автобусные и автомобильные стоянки доступные для болельщиков и команд."
+      },
+      {
+        "title": "Пляжный воллейбол",
+        "description": "В « Asteria Kremlin Palace» имеются 16 полей размером 16X8 метров по стандартам FIVB."
+      },
+      {
+        "title": "Большой теннис",
+        "description": "Есть 8 грунтовых теннисных кортов, все освещены по международным стандартам."
+      }
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/sport/gallery/sport-1.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-2.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-3.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-4.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-5.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-6.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-7.jpeg" },
+      { "imageSource": "../public/images/sport/gallery/sport-8.jpeg" }
+    ]
+  },
+  "kids_club": {
+    "title": "ASTERIA ДЕТСКИЙ КЛУБ",
+    "description": "Наш детский клуб специально создан для наших маленьких гостей, в котором работают профессиональные аниматоры и создают для них атмосферу праздника и сказки. Дети будут окружены вниманием и заботой с 10:00 до 22:00. Рядом с мини-клубом находятся детская игровая площадка в тени. В мини клуб дети принимаются с 4 до 12 лет, они будут заняты любимыми делами: спортивные игры, игры в бассейне, соревнования и развивающие игры.",
+    "main_image": "../public/images/kids-club/kids-club-main-image.jpeg",
+    "items_title": "Предлагаемые услуги:",
+    "kids_club_list": [
+      "Тематические дни",
+      "Специальные игры и курсы",
+      "Игры в бассейне, аквагрим",
+      "В главном ресторане специально оборудованный буфет для детей",
+      "B главном ресторане детские стульчики",
+      "Детское меню",
+      "Услуги няни(по резервации и за доп.плату)",
+      "Прокат детских колясок (по резервации и за доп.плату)"
+    ],
+    "imageList": [
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-1.png" },
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-2.jpeg" },
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-3.png" },
+      { "imageSource": "../public/images/kids-club/gallery/kids-club-4.jpeg" }
+    ]
+  },
+  "marriage_and_honeymoon": {
+    "title": "СВАДЬБА & МЕДОВЫЙ МЕСЯЦ",
+    "description": "Незабываемая свадебная церемония!",
+    "main_image": "../public/images/stock-images/mariage-and-honeymoon-main-image.jpeg",
+    "items": [
+      {
+        "title": "МЕДОВЫЙ МЕСЯЦ",
+        "description": "",
+        "subtitle": "Пакет для молодожёнов:",
+        "packages": [
+          "Халат и тапочки",
+          "Эл. чайник",
+          "Набор чаев и кофе",
+          "VIP набор ванных принадлежностей",
+          "Вино",
+          "Фрукты",
+          "Сладости",
+          "Ассорти сухофруктов",
+          "Один раз по желанию завтрак в номер (Бронирование должно быть организовано в день прибытия гостями.)",
+          "Один раз бесплатная резервация A’la Carte ресторана (Бронирование должно быть организовано в день прибытия гостями .)",
+          "<strong>Примечание:</strong> Для того, чтобы воспользоваться пакетом медовый месяц, при заселении необходимо преоставить свидетельство о браке.",
+          "Пакет действителен для пар, с даты бракосочетания которых прошло не более 6 месяцев.",
+          "Детали (место, дата, время) оказания услуг гости должны выбрать сами во время проживания в отеле. Некоторые услуги пакета медовый месяц предоставляются по возможности и по запросу гостей."
+        ]
+      },
+      {
+        "title": "СВАДЬБА",
+        "description": "Скажите ДА снова на глазах у тысячи людей. Поездка по отелю в специально оформленной машине, оформление стола и музыкальное сопровождение, танец под выбранную Вами музыку, в сопровождении регистратора брака и анимационной команды незабываемая свадебная церемония…",
+        "subtitle": "Пакет:",
+        "packages": [
+          "Ассорти из мороженого и фруктов",
+          "Особый торт",
+          "Охлаждённое шампанское",
+          "Особо оформленный стол на пирсе",
+          "Танец под, выбранную Вами, песню",
+          "Русско-говорящий регистратор брака",
+          "2 свидетеля — один из них менеджер отеля",
+          "Прохладительные напитки",
+          "Дополнение: данная церемония проводится ближе к вечеру на пирсе перед большим количеством людей, находящихся на пляже."
+        ]
+      }
+    ]
+  }
+}

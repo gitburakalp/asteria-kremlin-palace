@@ -1,0 +1,69 @@
+.flex-list-block {
+  font-family: $ff-sans-serif;
+  font-size: rem(14);
+  font-weight: 300;
+
+  div {
+    &::before {
+      content: '-';
+      padding-right: 1rem;
+    }
+
+    + * {
+      margin-top: rem(6);
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    font-size: 1rem;
+  }
+
+  .flex-list {
+    display: flex;
+    flex-wrap: wrap;
+
+    > * {
+      $amount: 50%;
+      flex: 0 0 $amount;
+      width: $amount;
+      max-width: $amount;
+
+      @include media-breakpoint-down(sm) {
+        &:nth-child(n + 4) {
+          margin-top: rem(10);
+        }
+      }
+
+      @include media-breakpoint-between(md, lg) {
+        &:nth-child(n + 5) {
+          margin-top: rem(10);
+        }
+      }
+
+      @include media-breakpoint-up(md) {
+        $amount: calc(100% / 3);
+        flex: 0 0 $amount;
+        width: $amount;
+        max-width: $amount;
+      }
+
+      @include media-breakpoint-up(lg) {
+        $amount: calc(100% / 4);
+        flex: 0 0 $amount;
+        width: $amount;
+        max-width: $amount;
+      }
+
+      @include media-breakpoint-up(xl) {
+        $amount: calc(100% / 5);
+        flex: 0 0 $amount;
+        width: $amount;
+        max-width: $amount;
+
+        &:nth-child(n + 6) {
+          margin-top: rem(5);
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+.card-swiper {
+  margin-right: vw(-15, 375);
+
+  @include media-breakpoint-up(md) {
+    margin-right: calc((-100vw + 95.31421vw) / 2 + #{rem(-15)});
+  }
+
+  @include media-breakpoint-up(xl) {
+    // margin-right: vw(-135, 100vw);
+    margin-right: calc((-100vw + 74.625rem) / 2 + #{rem(-15)});
+  }
+
+  .figure {
+    padding-top: 294 / 235.2 * 100%;
+
+    @include media-breakpoint-up(md) {
+      padding-top: 250 / 200 * 100%;
+    }
+
+    @include media-breakpoint-up(xl) {
+      padding-top: 400 / 372 * 100%;
+    }
+  }
+
+  .btn--primary {
+    position: absolute;
+    z-index: 9;
+    top: 0;
+    right: rem(23);
+    padding: 0.282rem 0.85rem;
+    border-bottom-left-radius: rem(4);
+    border-bottom-right-radius: rem(4);
+
+    @include media-breakpoint-down(sm) {
+      font-size: rem(12);
+      right: unset;
+      left: 50%;
+      transform: translateX(-50%);
+      width: max-content;
+    }
+
+    @include media-breakpoint-between(md, xl) {
+      right: unset;
+      left: 50%;
+      transform: translateX(-50%);
+      width: max-content;
+      font-size: rem(10);
+    }
+
+    .icons {
+      margin-left: 1rem;
+    }
+  }
+
+  .glass-button {
+    background: rgba(87, 87, 87, 0.41);
+    backdrop-filter: blur(1px);
+    height: rem(64);
+
+    @include media-breakpoint-between(md, xl) {
+      bottom: rem(13);
+    }
+
+    @include media-breakpoint-up(md) {
+      height: rem(55);
+    }
+
+    @include media-breakpoint-up(xl) {
+      background: rgba(203, 203, 203, 0.41);
+      backdrop-filter: blur(2px);
+      bottom: rem(45);
+    }
+
+    span {
+      font-family: $ff-headings;
+      line-height: 1.2;
+
+      &:first-child {
+        font-size: rem(9);
+        font-weight: 500;
+
+        @include media-breakpoint-up(md) {
+          font-size: rem(8);
+        }
+        @include media-breakpoint-up(xl) {
+          font-size: rem(14);
+        }
+      }
+
+      &:nth-child(2) {
+        font-size: rem(14);
+        font-weight: 300;
+
+        @include media-breakpoint-up(md) {
+          font-size: rem(12);
+        }
+        @include media-breakpoint-up(xl) {
+          font-size: rem(15);
+        }
+      }
+    }
+  }
+}
